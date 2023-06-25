@@ -1,54 +1,70 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Welcome&&height=200)](https://github.com/TIPYexe)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Welcome&&height=200&width=1100)](https://github.com/TIPYexe)
 
 <div>
   
-  <h2 align="center">About Me</h2>
+  <h1 align="center">About Me 💫</h2>
   
   <p>
-    Hi there! I'm Nicolescu Robert, also known as Tipy, a passionate developer always seeking new challenges and opportunities for growth. With a strong background in frontend development, I thrive in collaborative environments where innovation and teamwork are valued.
+    Hi there! 👋 I'm Nicolescu Robert, also known as Tipy, a passionate developer always seeking new challenges and opportunities for growth. With a strong background in frontend development, I thrive in collaborative environments where innovation and teamwork are valued.
   </p>
   
   <p>
-    Continuous learning is my mantra, and I love pushing myself to explore new technologies and expand my skill set.  You'll often find me participating in hackathons, working on awesome projects, and collaborating with talented individuals to deliver outstanding results.
+    Continuous learning is my mantra, and I love pushing myself to explore new technologies and expand my skill set. 💡 You'll often find me participating in hackathons, working on awesome projects, and collaborating with talented individuals to deliver outstanding results.
   </p>
   
 </div>
 
 <div>
 
-  <h2 align="center">My Development Philosophy</h2>
+  <h1 align="center">My Development Philosophy</h2>
 
   <p>
-    I believe in open and honest communication, respecting deadlines, and fostering a positive and inclusive work environment. As a team player and a natural leader, I am always ready to take on new challenges and guide the team towards success.
+    🤝 I believe in open and honest communication, respecting deadlines, and fostering a positive and inclusive work environment. As a team player and a natural leader, I am always ready to take on new challenges and guide the team towards success.
   </p>
 
   <p>
-    I understand the importance of prioritizing tasks and making informed decisions. If I encounter any difficulties that might affect project delivery, I proactively communicate and seek solutions to ensure transparency and accountability.
+    ⏰ I understand the importance of prioritizing tasks and making informed decisions. If I encounter any difficulties that might affect project delivery, I proactively communicate and seek solutions to ensure transparency and accountability.
   </p>
 
 </div>
 
-<div align="center">
+<h1 align="center">Frontend Journey 📈</h2>
 
-  <h2>Frontend Roadmap</h2>
+<table border="0">
+  <tr align="center">
+    <td width=600>
+      <a href="https://github.com/TIPYexe/mws.github.io">
+        <img src="demo_mws.png" alt="MWS Project" width="200">
+      </a>
+    <td width=600>
+      <a href="https://github.com/Bb4k/hyper-frontend">
+        <img src="hyper-logo.png" alt="Hyper Logo" width="200">
+      </a>
+    </td>
+  </tr>
   
-  <div align="center">
-    <img src="mws_screenshot.png" alt="MWS Project" width="600">
-    <p><strong>MWS (My 1st Site)</strong></p>
-    <p>Reflecting on my journey, [MWS](https://github.com/TIPYexe/mws.github.io) was one of my earliest projects where I honed my skills as a frontend developer. Despite its humble beginnings, this project truely sparked my interest for this field.</p>
-  </div>
+  <tr align="center">
+    <td>
+      <strong>MWS (My 1st Site)</strong>
+    </td>
+    <td>
+      <strong>Hyper</strong>  
+    </td>
+  </tr>
   
-  <div align="center">
-    <img src="hyper_screenshot.png" alt="Hyper Project" width="600">
-    <p><strong>Hyper</strong></p>
-    <p>Hyper represents my best work thus far, showcasing my expertise in frontend development and project leadership. Inspired by the gym culture, this social media platform is a testament to my ability to create innovative solutions that resonate with users.</p>
-  </div>
-  
-</div>
+  <tr align="center">
+    <td>
+      Reflecting on my journey, <a href="https://github.com/TIPYexe/mws.github.io">MWS</a> was one of my earliest projects where I honed my skills as a frontend developer. Despite its humble beginnings, this project truly sparked my interest in this field.
+    </td>
+    <td>
+      <a href="https://github.com/Bb4k/hyper-frontend">Hyper</a> represents my best work thus far, showcasing my expertise in frontend development and project leadership. Inspired by the gym culture, this social media platform is a testament to my ability to create innovative solutions that resonate with users.
+    </td>
+  </tr>
+</table>
 
 <div>
   
-  <h2 align="center">What I'm working on</h2>
+  <h1 align="center">What I'm working on ⌛</h2>
   
   <p>
     Currently, I am delving into backend development to broaden my expertise and embrace new horizons. I enjoy exploring different fields as it keeps me motivated and enables me to tackle complex problems with a fresh perspective.
@@ -58,19 +74,13 @@
 
 <div align="center">
 
-  <h2>Thank You!</h2>
+  <h2>Thank You! 🙏</h2>
 
   <p>
     Thank you for visiting my GitHub profile. I look forward to sharing more exciting projects and collaborations with you. Let's make the world of development a better place, one line of code at a time!
   </p>
 
 </div>
-
-
-  
-# 💫 About Me:
-👯 I’m looking to collaborate with other skilled developers and entrepreneurial minds to create innovative and impactful solutions. <br><br>🌱 I’m currently learning advanced backend technologies and frameworks, such as Node.js, Express.js, or Ruby on Rails, to expand my knowledge and capabilities in the backend domain.<br><br>⚡ Fun fact: I thrive on challenging projects and enjoy pushing my boundaries. As a great leader and team player, I find joy in collaborating with others and achieving success through effective communication and honest interactions.
-
 
 ## 🌐 Let's connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/robert-nicolescu) 
