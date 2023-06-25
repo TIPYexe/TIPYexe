@@ -74,6 +74,18 @@
 
 <div align="center">
 
+  <h1>Working experience</h1>
+  
+  | Role                      | Experience | Progress      |
+  | ------------------------- | ---------- | ------------- |
+  | Junior Frontend Developer | 9 mos.     | ▰▰▰▰▱▱▱▱▱ 45% |
+  | Software Developer        | 7 mos.     | ▰▰▰▱▱▱▱▱▱ 35% |
+  | DevSecOps Engineer        | 4 mos.     | ▰▰▱▱▱▱▱▱▱ 20% |
+
+</div>
+
+<div align="center">
+
   <h2>Thank You! 🙏</h2>
 
   <p>
